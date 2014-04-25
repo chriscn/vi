@@ -65,7 +65,7 @@ set nowritebackup
 set nowb
 
 " Color theme
-colorscheme desert
+colorscheme solarized
 
 " Highlight cursor line
 set cursorline 
