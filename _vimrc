@@ -72,7 +72,7 @@ hi CursorLine cterm=NONE ctermbg=darkred ctermfg=white guibg=black
 :nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
 
 " Font
-set guifont=Courier_New:h9:cANSI  
+set guifont=Courier_New:h10:cANSI  
 
 
 " Converting tabs to spaces
