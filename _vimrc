@@ -64,9 +64,6 @@ set nobackup
 set nowritebackup
 set nowb
 
-" Color theme
-colorscheme solarized
-
 " Highlight cursor line
 set cursorline 
 hi CursorLine cterm=NONE ctermbg=darkred ctermfg=white guibg=black
@@ -107,6 +104,11 @@ filetype plugin indent on
 " git clone git://github.com/nathanaelkane/vim-indent-guides.git 
 " IndentGuidesEnable
 autocmd VimEnter * :IndentGuidesEnable
+
+" Colortheme: solarized
+colorscheme solarized
+
+
 
 " ==============================================================================
 " Auto Completion
